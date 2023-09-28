@@ -49,5 +49,16 @@
     "vuejs",
     "starter"
   ],
-  "description": "Vue.js example starter project"
+  "description": "Vue.js example starter project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartisIdealink/newest-voice-recorder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartisIdealink/newest-voice-recorder/issues"
+  },
+  "homepage": "https://github.com/MartisIdealink/newest-voice-recorder#readme"
 }
